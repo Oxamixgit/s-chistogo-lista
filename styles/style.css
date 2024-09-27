@@ -1,9 +1,9 @@
 /* Сброс стилей для основных элементов */
 body {
-  margin: 0;
   font-family: "Inter", sans-serif; /* Устанавливаем Inter 400 как основной шрифт */
   font-weight: 400;
   background-color: #1e1e1e;
+  margin: 0;
 }
 
 h1,
