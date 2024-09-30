@@ -168,8 +168,8 @@ blockquote {
 }
 
 .card_theme_dark {
-  color: #F5F5F5;
-  background-color: #343434; 
+  color:#F5F5F5;
+  background-color:#343434; 
   border-radius: 30px;
   padding: 20px;
   width: auto;
@@ -177,8 +177,8 @@ blockquote {
 }
 
 .card_theme_bright {
-  color: #141414;
-  background-color: #FEE42A;
+  color:#141414;
+  background-color:#FEE42A;
   border-radius: 30px;
   padding: 20px;
   width: auto;
