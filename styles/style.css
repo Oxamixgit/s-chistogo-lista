@@ -204,11 +204,6 @@ blockquote {
   display: block;
   font-family: "EB Garamond", serif;
     }
-
-.footer {
-  padding: 20px;
-}
-
 /* Стиль для всех секций с контентом */
 .content-section {
   width: 360px;
