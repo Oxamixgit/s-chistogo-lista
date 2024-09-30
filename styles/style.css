@@ -1,7 +1,5 @@
-/* Сброс стилей для основных элементов */
 body {
-  font-family: "Inter", sans-serif; /* Устанавливаем Inter 400 как основной шрифт */
-  font-weight: 400;
+  font-family: "Inter", sans-serif;
   background-color: #1e1e1e;
   margin: 0;
 }
