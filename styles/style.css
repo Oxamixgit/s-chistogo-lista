@@ -176,6 +176,15 @@ blockquote {
   height: 100%;
 }
 
+.card_theme_dark {
+  color: #F5F5F5;
+  background-color: #343434;
+  border-radius: 30px;
+  padding: 20px;
+  width: auto;
+  height: 100%;
+}
+
 .card__author-photo {
   display: block;
   width: 100px;
