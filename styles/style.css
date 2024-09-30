@@ -18,7 +18,7 @@ blockquote {
   margin: 0;
   padding: 0;
 }
-/* Стиль для шапки */
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -30,6 +30,7 @@ blockquote {
   display: block;
   width: 78px;
 }
+
 .header_logo-image {
   width: 100%;
 }
@@ -206,8 +207,8 @@ blockquote {
 .article {
   display: block;
   font-family: "EB Garamond", serif;
-    }
-/* Стиль для всех секций с контентом */
+}
+
 .content-section {
   width: 360px;
   margin: 0 auto;
@@ -216,12 +217,11 @@ blockquote {
   max-width: 360px;
 }
 
-/* Темная тема для секции */
 .content-section_theme_dark {
   background-color: #131313;
   color: #fff;
 }
-/* Светлая тема для секции */
+
 .content-section_theme_bright {
   background-color: #fee42a;
   color: #131313;
