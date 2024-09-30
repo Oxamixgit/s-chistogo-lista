@@ -124,11 +124,13 @@ blockquote {
   line-height: 115%;
   margin-bottom: 32px;
 }
+
 .content-section__introduction {
   margin: 0 0 32px;
   font-size: 20px;
   line-height: 1.35;
 }
+
 .content-section__list {
   display: flex;
   flex-direction: column;
@@ -227,6 +229,7 @@ blockquote {
   font-size: 36px;
   margin-bottom: 20px;
 }
+
 .footer {
   display: flex;
   justify-content: space-between;
@@ -246,7 +249,7 @@ blockquote {
   list-style: none;
 }
 
-.footer__links a{
+.footer__links a {
   color: #F5F5F5;
   font-size: 14px;
   line-height: 1.25;
