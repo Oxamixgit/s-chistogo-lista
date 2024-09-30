@@ -167,15 +167,6 @@ blockquote {
   list-style: none;
 }
 
-.card_theme_dark {
-  color: #F5F5F5;
-  background-color: #343434; 
-  border-radius: 30px;
-  padding: 20px;
-  width: auto;
-  height: 100%;
-}
-
 .card_theme_bright {
   color: #141414;
   background-color: #FEE42A;
