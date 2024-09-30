@@ -33,11 +33,13 @@ blockquote {
 .header_logo-image {
   width: 100%;
 }
+
 .header_menu-list {
   display: flex;
   flex-direction: column;
   gap: 12px;
 }
+
 .header_menu-item {
   list-style: none;
   color: #fff;
@@ -53,6 +55,7 @@ blockquote {
 .header__menu-item_active .header_menu-link {
   text-decoration: none;
 }
+
 .cover {
   min-height: 258px;
   padding: 7px 24px 32px 20px;
@@ -61,6 +64,7 @@ blockquote {
   background-position: right center;
   background-size: 95% auto;
 }
+
 .cover__title {
   font-family: "EB Garamond", serif;
   font-weight: 400;
@@ -225,11 +229,6 @@ blockquote {
   color: #131313;
 }
 
-.cover h2 {
-  font-size: 36px;
-  margin-bottom: 20px;
-}
-
 .footer {
   display: flex;
   justify-content: space-between;
@@ -237,6 +236,7 @@ blockquote {
   border-top: 1px solid #FEE42A;
   padding: 20px;
 }
+
 .footer__copy {
     font-size: 16px;
     line-height: 135%;
